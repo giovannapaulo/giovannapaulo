@@ -1,8 +1,6 @@
-## Hello, I´m Giovanna Brandão! 👋
+## Hello, I´m Giovanna Brandão! 👾
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+I’m currently studying System Analysis and Development.
 
  <div>
   <a href="https://github.com/giovannapaulo">
